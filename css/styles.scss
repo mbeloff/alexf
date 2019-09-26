@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush&display=swap');
+
 @import "../node_modules/bootstrap/scss/_functions.scss";
 @import "../node_modules/bootstrap/scss/_variables.scss";
 @import "../node_modules/bootstrap/scss/mixins/_breakpoints.scss";
@@ -63,7 +65,7 @@ h2 {
 }
 
 .navbar.navbar-light .breadcrumb .nav-item .nav-link, .navbar.navbar-light .navbar-nav .nav-item .nav-link {
-  color: rgb(243, 234, 226);
+  color: rgba(243, 234, 226, 0.767);
 }
 
 .top-nav-collapse {
@@ -87,7 +89,8 @@ h2 {
 }
 
 .navbar-brand {
-  font-family: 'bad script';
+  font-family: 'alex brush';
+  font-size: 2rem;
   color: #b9a17e !important;
   border-radius: 5px;
   padding: 5px;
@@ -111,6 +114,8 @@ h2 {
 .parallax--box {
   position: absolute;
   max-width: 30em;
+  font-family: 'alex brush';
+  font-size: 3rem;
 }
 
 .carousel-img {
