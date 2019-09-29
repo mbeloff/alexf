@@ -117,27 +117,22 @@ h2 {
   font-size: 3rem;
 }
 
-.triplet-container {
-
-}
-
 .triplet {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.contact-ad {
-  background-image: url('../img/life-preserver.jpg');
-  height: 15em;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.spacer {
+  height: 2rem;
 }
 
 .contact-section .fas {
   color: #b9a17e;
+}
+
+.products li {
+  margin-bottom: 10px;
 }
 
 .form-header {
