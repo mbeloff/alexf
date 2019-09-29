@@ -12,17 +12,17 @@ $(document).ready(function () {
 
 new WOW().init();
 
-$('.jarallax').jarallax();
+// $('.jarallax').jarallax();
 
-$(window).scroll(function(){
-  parallax();
-})
+// $(window).scroll(function(){
+//   parallax();
+// })
 
-function parallax() {
-  var wScroll = $(window).scrollTop();
+// function parallax() {
+//   var wScroll = $(window).scrollTop();
 
-  $('.parallax--box').css('top', 
-  (wScroll*0.01)+'em');
-}
+//   $('.parallax--box').css('top', 
+//   (wScroll*0.01)+'em');
+// }
 
 
