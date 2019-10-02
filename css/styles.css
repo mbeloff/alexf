@@ -48,6 +48,9 @@ h2 {
 .navbar.navbar-light .breadcrumb .nav-item .nav-link, .navbar.navbar-light .navbar-nav .nav-item .nav-link {
   color: rgba(243, 234, 226, 0.767); }
 
+a.nav-link.active {
+  color: #ffffff !important; }
+
 .top-nav-collapse {
   background-color: #b9a17e !important; }
 
