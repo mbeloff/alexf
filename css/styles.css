@@ -124,13 +124,6 @@ a.nav-link.active {
       -webkit-transform: scale(0.75);
               transform: scale(0.75); } }
 
-.reviews-section i {
-  color: #b9a17e; }
-
-blockquote p:before {
-  content: "\f10d";
-  font-family: 'Fontawesome';
-  float: left;
-  margin-right: 10px;
+.fad {
   color: #b9a17e; }
 /*# sourceMappingURL=styles.css.map */
