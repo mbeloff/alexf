@@ -22,7 +22,7 @@ function parallax() {
   var wScroll = $(window).scrollTop();
 
   $('.parallax--box').css('top', 
-  (wScroll*0.01)+'em');
+  (wScroll*0.007)+'em');
 }
 
 

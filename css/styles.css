@@ -87,8 +87,11 @@ a.nav-link.active {
 .parallax--box {
   position: absolute;
   max-width: 30em;
+  font-weight: 100;
+  color: #b9a17e;
   font-family: 'alex brush';
-  font-size: 3rem; }
+  font-size: 4rem;
+  text-shadow: rgba(0, 0, 0, 0.377) 1px 1px; }
 
 .triplet {
   width: 100%;
