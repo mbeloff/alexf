@@ -79,19 +79,16 @@ a.nav-link.active {
 .hero-text {
   top: -10%;
   width: 100%;
-  max-width: 80vw;
-  z-index: 1;
-  left: 15%;
-  margin-left: -25%; }
+  max-width: 90vw;
+  z-index: 1; }
 
 .parallax--box {
   position: absolute;
   max-width: 30em;
   font-weight: 100;
-  color: #b9a17e;
+  color: #2c2c2c;
   font-family: 'alex brush';
-  font-size: 4rem;
-  text-shadow: rgba(0, 0, 0, 0.377) 1px 1px; }
+  font-size: 2.5rem; }
 
 .triplet {
   width: 100%;
